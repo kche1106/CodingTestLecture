@@ -10,7 +10,7 @@ using namespace std;
 
 //선택 정렬
 int main() {
-    int a[100], n, idx;
+    int a[100], n;
     cin >> n;
     
     for(int i = 0; i < n; i++) {
@@ -18,7 +18,7 @@ int main() {
     }
     
 //    for(int i = 0; i < n-1; i++) {
-//        idx = i;
+//        int idx = i;
 //        for(int j = i + 1; j < n; j++) {
 //            if(a[j] < a[idx]) idx = j;
 //        }
