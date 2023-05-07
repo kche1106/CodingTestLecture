@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DE28B35F29DFC83000E64135 /* 35.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE28B35E29DFC83000E64135 /* 35.cpp */; };
-		DE28B36129DFCEF500E64135 /* 58.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE28B36029DFCEF500E64135 /* 58.cpp */; };
-		DE3D938D29E15E8B007134CE /* 79.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3D938C29E15E8B007134CE /* 79.cpp */; };
+		DEEE830A2A0769B7007DC1C6 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEEE83092A0769B7007DC1C6 /* 5.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +44,8 @@
 		DECE3D8F29DA708E008C4CF7 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		DECE3D9129DA7222008C4CF7 /* 33.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 33.cpp; sourceTree = "<group>"; };
 		DECE3D9529DA7AEB008C4CF7 /* 77.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 77.cpp; sourceTree = "<group>"; };
+		DEEE83072A076568007DC1C6 /* DP_4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DP_4.cpp; sourceTree = "<group>"; };
+		DEEE83092A0769B7007DC1C6 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +98,8 @@
 				DE28B35E29DFC83000E64135 /* 35.cpp */,
 				DE28B36029DFCEF500E64135 /* 58.cpp */,
 				DE3D938C29E15E8B007134CE /* 79.cpp */,
+				DEEE83072A076568007DC1C6 /* DP_4.cpp */,
+				DEEE83092A0769B7007DC1C6 /* 5.cpp */,
 			);
 			path = CodingTestLecture;
 			sourceTree = "<group>";
@@ -159,9 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE28B36129DFCEF500E64135 /* 58.cpp in Sources */,
-				DE28B35F29DFC83000E64135 /* 35.cpp in Sources */,
-				DE3D938D29E15E8B007134CE /* 79.cpp in Sources */,
+				DEEE830A2A0769B7007DC1C6 /* 5.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
