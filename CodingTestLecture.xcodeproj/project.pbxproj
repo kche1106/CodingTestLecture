@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DEC6FBB32AE2695D0036B9CD /* 60.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC6FBB22AE2695D0036B9CD /* 60.cpp */; };
+		DE6859912AEA08CC0063EA86 /* DP_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE6859902AEA08CC0063EA86 /* DP_5.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +35,7 @@
 		DE40DCB129DD839D004B6328 /* 57.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 57.cpp; sourceTree = "<group>"; };
 		DE40DCB329DD864B004B6328 /* 78.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 78.cpp; sourceTree = "<group>"; };
 		DE56023B2A14ED51007E6BD4 /* work.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = work.cpp; sourceTree = "<group>"; };
+		DE6859902AEA08CC0063EA86 /* DP_5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DP_5.cpp; sourceTree = "<group>"; };
 		DEA78B6E29D97AD000A1BE33 /* CodingTestLecture */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTestLecture; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEA78B7129D97AD000A1BE33 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		DEA78B7829D97F1800A1BE33 /* 32.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 32.cpp; sourceTree = "<group>"; };
@@ -67,7 +68,6 @@
 		DEA78B6529D97AD000A1BE33 = {
 			isa = PBXGroup;
 			children = (
-				DEC6FBB22AE2695D0036B9CD /* 60.cpp */,
 				DEA78B7029D97AD000A1BE33 /* CodingTestLecture */,
 				DEA78B6F29D97AD000A1BE33 /* Products */,
 			);
@@ -105,11 +105,13 @@
 				DE28B36029DFCEF500E64135 /* 58.cpp */,
 				DE3D938C29E15E8B007134CE /* 79.cpp */,
 				DEEE83072A076568007DC1C6 /* DP_4.cpp */,
+				DE6859902AEA08CC0063EA86 /* DP_5.cpp */,
 				DEEE83092A0769B7007DC1C6 /* 5.cpp */,
 				DEEE830B2A076C7A007DC1C6 /* 36.cpp */,
 				DED377202A08A11C00A17E1C /* 59.cpp */,
 				DED377222A08A3CE00A17E1C /* 80.cpp */,
 				DE56023B2A14ED51007E6BD4 /* work.cpp */,
+				DEC6FBB22AE2695D0036B9CD /* 60.cpp */,
 			);
 			path = CodingTestLecture;
 			sourceTree = "<group>";
@@ -171,7 +173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEC6FBB32AE2695D0036B9CD /* 60.cpp in Sources */,
+				DE6859912AEA08CC0063EA86 /* DP_5.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
