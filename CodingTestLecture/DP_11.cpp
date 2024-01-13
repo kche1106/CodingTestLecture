@@ -19,7 +19,7 @@ int main() {
     for(int i = 0; i < n; i++) {
         cin >> ps >> pt;
         
-        for(int j = m; j >= pt; j--) {
+        for(int j = m; j >= pt; j--) {  //for(int j = pt; j <= m; j++)는 왜 안되는 거지
             dy[j] = max(dy[j], dy[j-pt] + ps);
         }
     }
