@@ -39,5 +39,5 @@ int main() {
     }
     
     DFS(0);
-    cout << cnt << endl; 
+    cout << cnt << endl;
 }
