@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DE2937752B57D086006CC62C /* 84.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE2937742B57D086006CC62C /* 84.cpp */; };
+		DE07CF3A2B5FD83B001CF9A5 /* 72.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE07CF392B5FD83B001CF9A5 /* 72.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DE07CF392B5FD83B001CF9A5 /* 72.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 72.cpp; sourceTree = "<group>"; };
 		DE20EA062B0054C3007973A0 /* DP_9.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DP_9.cpp; sourceTree = "<group>"; };
 		DE21B72C2B4FD41F00FA8BA3 /* 82.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 82.cpp; sourceTree = "<group>"; };
 		DE28B35929DFC11D00E64135 /* DP_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DP_2.cpp; sourceTree = "<group>"; };
@@ -37,6 +38,7 @@
 		DE40DCAE29DD81F6004B6328 /* 34.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 34.cpp; sourceTree = "<group>"; };
 		DE40DCB129DD839D004B6328 /* 57.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 57.cpp; sourceTree = "<group>"; };
 		DE40DCB329DD864B004B6328 /* 78.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 78.cpp; sourceTree = "<group>"; };
+		DE412EEE2B5FD42C00098CC7 /* 65.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 65.cpp; sourceTree = "<group>"; };
 		DE56023B2A14ED51007E6BD4 /* work.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = work.cpp; sourceTree = "<group>"; };
 		DE6448E22B48E88B00E7FCDF /* 69.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 69.cpp; sourceTree = "<group>"; };
 		DE6448E42B48EF4B00E7FCDF /* 70.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 70.cpp; sourceTree = "<group>"; };
@@ -154,6 +156,8 @@
 				DEE1425C2B567F19004A17A3 /* 64.cpp */,
 				DE9892EB2B56876400BA7831 /* 83.cpp */,
 				DE2937742B57D086006CC62C /* 84.cpp */,
+				DE412EEE2B5FD42C00098CC7 /* 65.cpp */,
+				DE07CF392B5FD83B001CF9A5 /* 72.cpp */,
 			);
 			path = CodingTestLecture;
 			sourceTree = "<group>";
@@ -215,7 +219,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE2937752B57D086006CC62C /* 84.cpp in Sources */,
+				DE07CF3A2B5FD83B001CF9A5 /* 72.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
